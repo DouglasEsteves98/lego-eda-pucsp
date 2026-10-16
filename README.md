@@ -30,4 +30,6 @@ Análise exploratória do catálogo LEGO da Rebrickable (sets, temas, peças, co
 - Um Random Forest do MLlib acertou o tema de 93% dos sets usando só cores e tipos de peça.
 
 ## Como rodar
-Abrir o notebook no Google Colab e rodar todas as células. Os dados são baixados automaticamente do site da Rebrickable.
+Abrir o notebook no Google Colab pelo link abaixo e rodar todas as células (Ambiente de execução → Executar tudo). Os dados são baixados automaticamente do site da Rebrickable.
+
+Link do Colab: https://colab.research.google.com/github/DouglasEsteves98/lego-eda-pucsp/blob/main/PUCSP_ProjetoFinal_EDA_LEGO.ipynb
